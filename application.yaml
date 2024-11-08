@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/VathanakSol/react-app.git
+    repoURL: https://github.com/VathanakSol/argocd-app-2.git
     targetRevision: HEAD
     path: dev
   destination: 
